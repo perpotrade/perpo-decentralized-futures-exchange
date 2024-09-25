@@ -4,7 +4,7 @@
 
 Contact with us for listing!
 
-## List Pairs
+## Listed Pairs
 
 | Coin | Pairs | Trade |
 | --- | --- | --- |
