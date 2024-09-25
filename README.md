@@ -1,4 +1,13 @@
-# perpo-decentralized-futures-exchange
-Perpo decentralized futures exchange
+# Perpo.trade Decentralized Futures Exchange
 
-[Perpo](https://perpo.trade)
+[Perpo.trade](https://perpo.trade/) Supported Pairs
+
+Contact with us for listing!
+
+## List Pairs
+
+| Coin | Pairs | Trade |
+| --- | --- | --- |
+| Kyber Network | KNC-USDT | [Trade](https://perpo.trade/futures/kncusdt) |
+| Terra | LUNA-USDT | [Trade](https://perpo.trade/futures/lunausdt) |
+| Convex Finance | CVX-USDT | [Trade](https://perpo.trade/futures/cvxusdt) |
