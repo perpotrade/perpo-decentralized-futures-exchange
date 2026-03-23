@@ -1,20 +1,19 @@
-# Project Name
+# Perpo.trade Decentralized Futures Exchange
 
-A [short one-line description of what the project does] built on **BNB Smart Chain (BSC)** and compatible with other EVM networks.
+Perpo.trade is a next-generation decentralized exchange (DEX) for perpetual futures trading built on **BNB Smart Chain (BSC)** and compatible with other EVM networks.
 
 ## Technology Stack
 
 - **Blockchain**: BNB Smart Chain + EVM-compatible chains  
 - **Smart Contracts**: Solidity ^0.x.x  
-- **Frontend**: [React / Vue / Next.js] + [ethers.js / web3.js / wagmi]  
-- **Development**: [Hardhat / Foundry / Truffle], OpenZeppelin libraries  
+- **Frontend**: [Next.js] + [ethers.js / web3.js / wagmi]  
+- **Development**: [Hardhat], OpenZeppelin libraries  
 
 ## Supported Networks
 
 - **BNB Smart Chain Mainnet** (Chain ID: 56)  
 - **BNB Smart Chain Testnet** (Chain ID: 97)  
 - **Ethereum Mainnet** (Chain ID: 1)  
-- *(add more if supported)*  
 
 ## Contract Addresses
 
@@ -31,9 +30,6 @@ A [short one-line description of what the project does] built on **BNB Smart Cha
 - [Feature 3: e.g. Decentralized governance with native token]  
 - [Feature 4: e.g. Security with timelocks and pause control]  
 - [Feature 5: e.g. Gas-efficient design for BNB Smart Chain]  
-
-
-# Perpo.trade Decentralized Futures Exchange
 
 [Perpo.trade](https://perpo.trade/) Supported Pairs
 
